@@ -1,0 +1,6 @@
+title: Lab 5
+github:
+  is_project_page: false
+remote_theme: alshedivat/al-folio
+plugins:
+- jekyll-remote-theme
