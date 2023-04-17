@@ -1,6 +1,6 @@
 title: Computer Vision in Remote Sensing
 github:
   is_project_page: false
-remote_theme: alshedivat/al-folio
+remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme
